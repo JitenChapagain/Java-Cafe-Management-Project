@@ -1,0 +1,243 @@
+INFO 2023-09-21 15:18:27 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 15:20:14 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 15:22:29 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 15:23:33 Welcome A user NPI000150 to view customer login page.
+INFO 2023-09-21 16:48:00 Welcome A user has attempted to view Customer Registration page.
+LOGIN 2023-09-21 16:48:02 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 16:48:04 Welcome A user has attempted to view Manager Registration page.
+LOGIN 2023-09-21 16:48:06 Welcome A user has attempted to view Manager Login page.
+LOGIN 2023-09-21 16:48:08 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 16:48:54 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 17:12:01 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 17:12:11 CustomerReg A user has cleared the fields in Customer Registration page.
+INFO 2023-09-21 17:12:11 CustomerReg A user has attempted to view Welcome page.
+INFO 2023-09-21 17:12:15 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 17:13:17 Customer UserNPI000000 has been registered successfully.
+INFO 2023-09-21 17:13:17 CustomerReg User has attempted to view Welcome page with customerID.NPI000000
+LOGIN 2023-09-21 17:13:18 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 17:23:37 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 17:23:58 CustomerReg A user has cleared the fields in Customer Registration page.
+INFO 2023-09-21 17:24:25 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 17:24:35 CustomerReg A user has attempted to view Welcome page.
+INFO 2023-09-21 17:36:26 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 17:36:32 CustomerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-21 17:36:33 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 17:36:35 CustomerLogin A user has attempted to view Welcome page.
+LOGIN 2023-09-21 17:36:36 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 17:36:49 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 17:38:39 Welcome A user has attempted to view Manager Registration page.
+LOGIN 2023-09-21 18:04:26 Welcome A user attempt to view customer login page.
+LOGIN 2023-09-21 18:04:41 CustomerLogin User NPI000150 has logged in successfully.
+INFO 2023-09-21 18:04:50 CustomerMenu User NPI000150 has added 1 Food ID JS14 into orderItemTable.
+INFO 2023-09-21 18:04:54 CustomerMenu User NPI000150 has attempted to view Customer Home page.
+LOGOUT 2023-09-21 18:04:55 CustomerHome User NPI000150 has logged out of the system.
+LOGIN 2023-09-21 18:04:56 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 19:11:42 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 19:11:55 AdminHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 19:11:57 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:12:04 OrderHistory User JITEN has attempted to view Customer Home page.
+INFO 2023-09-21 19:12:11 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+LOGIN 2023-09-21 19:14:34 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 19:14:41 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:14:43 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:14:48 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:14:50 ManagerHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 19:14:54 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+INFO 2023-09-21 19:15:09 UpdateMenu Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 19:15:10 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:15:15 ManagerHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 19:15:18 ManagerHome Manager JITEN has attempted to view Manager Feedback page.
+INFO 2023-09-21 19:15:29 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+LOGIN 2023-09-21 19:16:32 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 19:16:38 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:16:41 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 19:26:35 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 19:26:49 AdminHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:26:56 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 19:33:27 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 19:33:47 AdminHome Manager JITEN has attempted to view Manager Menu page.
+INFO 2023-09-21 19:33:52 UpdateMenu Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 19:33:52 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:33:55 ManagerHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 19:33:57 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+INFO 2023-09-21 19:34:05 UpdateMenu Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 19:34:06 ManagerHome Manager JITEN has attempted to view Manager Feedback page.
+INFO 2023-09-21 19:34:09 ManagerHome Manager JITEN has attempted to view Manager Sales Report page.
+INFO 2023-09-21 19:34:13 ManagerHome Manager JITEN has attempted to view Manager Feedback page.
+INFO 2023-09-21 19:34:15 ManagerHome Manager JITEN has attempted to view Manager Account Approval page.
+INFO 2023-09-21 19:34:17 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+LOGIN 2023-09-21 19:37:18 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 19:37:25 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:37:26 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 19:37:28 ManagerHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 19:37:31 ManageOrder Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 19:37:32 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 19:38:36 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 19:38:47 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:38:52 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 19:42:47 Welcome A user has attempted to view ADMIN Login page.
+ERROR 2023-09-21 19:42:57 Admin A user has typed in a Manager ID that does not exist.
+ERROR 2023-09-21 19:43:02 Admin A user has typed in a Manager ID that does not exist.
+LOGIN 2023-09-21 19:43:08 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:43:10 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 19:44:44 Welcome A user has attempted to view ADMIN Login page.
+ERROR 2023-09-21 19:44:52 Admin A user has typed in a Manager ID that does not exist.
+LOGIN 2023-09-21 19:44:59 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 19:45:03 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+LOGIN 2023-09-21 20:24:41 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 20:24:53 AdminHome Manager JITEN has attempted to view Manager Account Approval page.
+INFO 2023-09-21 20:24:56 Approval Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:24:56 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-21 20:25:02 Log Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:25:04 Profile User JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:25:05 ManagerHome Manager JITEN has attempted to view Manager Sales Report page.
+INFO 2023-09-21 20:25:07 SalesReport Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:25:07 ManagerHome Manager JITEN has attempted to view Manager Feedback page.
+INFO 2023-09-21 20:25:09 Feedback Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:25:10 ManagerHome Manager JITEN has attempted to view Manager Menu page.
+INFO 2023-09-21 20:25:14 UpdateMenu Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-21 20:25:15 ManagerHome Manager JITEN has attempted to view Manager Order History page.
+INFO 2023-09-21 20:25:18 ManagerHome Manager JITEN has attempted to view Manager Manage Order page.
+INFO 2023-09-21 20:25:19 ManageOrder Manager JITEN has attempted to view Manager Home page.
+LOGOUT 2023-09-21 20:25:21 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+LOGOUT 2023-09-21 20:25:23 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+INFO 2023-09-21 20:29:26 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 20:29:27 CustomerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-21 20:29:28 Welcome A user attempt to view customer login page.
+INFO 2023-09-21 20:29:30 CustomerLogin A user has attempted to view Welcome page.
+LOGIN 2023-09-21 20:29:30 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 20:29:31 Admin A user has attempted to view Welcome page.
+INFO 2023-09-21 20:29:32 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-21 20:29:33 ManagerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-21 20:29:33 Welcome A user has attempted to view Manager Login page.
+INFO 2023-09-21 20:29:34 ManagerLogin A user has attempted to view Welcome page.
+LOGIN 2023-09-21 20:29:35 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-21 20:29:44 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-21 20:29:49 ManagerHome Manager JITEN has attempted to view Manager Account Approval page.
+INFO 2023-09-21 20:29:50 Approval Manager JITEN has attempted to view Manager Home page.
+LOGIN 2023-09-21 21:51:57 Welcome A user has attempted to view ADMIN Login page.
+ERROR 2023-09-21 21:52:06 Admin A user has typed in a Manager ID that does not exist.
+ERROR 2023-09-21 21:52:10 Admin A user has typed in a Manager ID that does not exist.
+INFO 2023-09-21 21:52:23 AdminHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-21 21:52:37 Log Manager JITEN has filtered the feedbacks with the query "JITEN".
+INFO 2023-09-21 21:52:40 Log Manager JITEN has attempted to view Manager Home page.
+LOGOUT 2023-09-21 21:52:44 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+INFO 2023-09-21 21:52:46 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-21 21:52:47 ManagerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-21 21:52:48 Welcome A user has attempted to view Manager Login page.
+INFO 2023-09-21 21:53:08 ManagerHome Manager SATINDRA has attempted to view Manager Manage Order page.
+INFO 2023-09-21 21:53:12 ManageOrder Manager SATINDRA has attempted to view Manager Home page.
+INFO 2023-09-21 21:53:13 ManagerHome Manager SATINDRA has attempted to view Manager Order History page.
+INFO 2023-09-21 21:53:15 ManagerHome Manager SATINDRA has attempted to view Manager Menu page.
+INFO 2023-09-21 21:53:17 UpdateMenu Manager SATINDRA has attempted to view Manager Home page.
+INFO 2023-09-21 21:53:18 ManagerHome Manager SATINDRA has attempted to view Manager Order History page.
+LOGOUT 2023-09-21 21:53:30 ManagerHome Manager SATINDRA has logout and  attempted to view Welcome page.
+LOGIN 2023-09-21 21:53:54 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-21 21:53:57 Admin A user has attempted to view Welcome page.
+INFO 2023-09-21 23:34:50 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 23:36:16 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 23:36:41 Welcome A user has attempted to view Customer Registration page.
+INFO 2023-09-21 23:54:46 Welcome A user has attempted to view Customer Registration page.
+ERROR 2023-09-21 23:54:47 CustomerReg A user did not enter all data fields.
+ERROR 2023-09-21 23:55:32 CustomerReg A user did not enter all data fields.
+ERROR 2023-09-21 23:55:54 CustomerReg A user entered an invalid Customer ID.
+ERROR 2023-09-21 23:56:30 CustomerReg A user entered an existing Customer ID.
+ERROR 2023-09-21 23:56:57 CustomerReg A user entered an invalid password.
+ERROR 2023-09-21 23:57:32 CustomerReg A user entered an invalid email format.
+LOGIN 2023-09-22 00:06:02 Welcome A user attempt to view customer login page.
+LOGIN 2023-09-22 00:11:34 CustomerLogin User NPI000150 has logged in successfully.
+LOGOUT 2023-09-22 00:11:38 CustomerHome User NPI000150 has logged out of the system.
+LOGIN 2023-09-22 00:11:41 Welcome A user attempt to view customer login page.
+ERROR 2023-09-22 00:20:00 CustomerLogin A user has typed in a Customer ID that does not exist.
+ERROR 2023-09-22 00:20:35 CustomerLogin A user has failed to login with an incorrect ID or Password.
+LOGIN 2023-09-22 00:24:11 CustomerLogin User NPI000150 has logged in successfully.
+ERROR 2023-09-22 00:29:37 CustomerMenu Exception occured: User NPI000150 did not enter all data fields.
+INFO 2023-09-22 00:29:47 CustomerMenu User NPI000150 has added 1 Food ID JS07 into orderItemTable.
+INFO 2023-09-22 00:29:52 CustomerMenu User NPI000150 has added 1 Food ID JS10 into orderItemTable.
+ERROR 2023-09-22 00:29:58 CustomerMenu Exception occured: User NPI000150 did not enter all data fields.
+INFO 2023-09-22 00:30:16 CustomerMenu User NPI000150 has added 3 Food ID JS20 into orderItemTable.
+INFO 2023-09-22 00:35:08 CustomerMenu User NPI000150 has completed a transaction successfully with the Order ID: 22092023003508
+INFO 2023-09-22 00:35:08 CustomerMenu User NPI000150 has attempted to view Customer Home page.
+INFO 2023-09-22 00:35:40 CustomerMenu User NPI000150 has added 4 Food ID JS10 into orderItemTable.
+INFO 2023-09-22 00:35:53 CustomerMenu User NPI000150 has insufficient balance. Transaction was unsuccessful.
+INFO 2023-09-22 00:35:53 CustomerMenu User NPI000150 has attempted to view Customer Home page.
+INFO 2023-09-22 00:45:15 CustomerProfile User NPI000150 has attempted to view Customer Home page.
+INFO 2023-09-22 00:48:36 CustomerOrderHistory User NPI000150 has attempted to view Customer Home page.
+LOGOUT 2023-09-22 00:48:37 CustomerHome User NPI000150 has logged out of the system.
+INFO 2023-09-22 00:48:38 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-22 00:48:43 ManagerReg A user has attempted to view Welcome page.
+INFO 2023-09-22 00:49:30 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-22 00:50:09 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-22 00:50:18 ManagerReg A user has attempted to view Welcome page.
+INFO 2023-09-22 00:51:14 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-22 00:58:23 ManagerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-22 00:58:25 Welcome A user has attempted to view Manager Login page.
+LOGIN 2023-09-22 01:02:15 ManagerLogin Manager SIR000150 has logged in successfully.
+INFO 2023-09-22 01:06:15 ManagerHome Manager SIR000150 has attempted to view Manager Menu page.
+INFO 2023-09-22 01:09:58 UpdateMenu Manager SIR000150 has attempted to view Manager Home page.
+INFO 2023-09-22 01:10:00 ManagerHome Manager SIR000150 has attempted to view Manager Profile page.
+INFO 2023-09-22 01:10:20 Profile User SIR000150 has attempted to view Manager Home page.
+INFO 2023-09-22 01:13:03 ManagerHome Manager SIR000150 has attempted to view Manager Manage Order page.
+INFO 2023-09-22 01:14:46 ManageOrder Manager SIR000150 has attempted to view Manager Home page.
+INFO 2023-09-22 01:14:47 ManagerHome Manager SIR000150 has attempted to view Manager Order History page.
+INFO 2023-09-22 01:16:27 ManagerHome Manager SIR000150 has attempted to view Manager Feedback page.
+INFO 2023-09-22 01:16:44 Feedback Manager SIR000150 has attempted to view the feedback of Order ID 19092023073936with Food ID JS15.
+INFO 2023-09-22 01:16:45 Feedback Manager SIR000150 has attempted to view the feedback of Order ID 18092023164330with Food ID JS20.
+INFO 2023-09-22 01:18:53 Feedback Manager SIR000150 has attempted to view Manager Home page.
+INFO 2023-09-22 01:18:54 ManagerHome Manager SIR000150 has attempted to view Manager Sales Report page.
+INFO 2023-09-22 01:21:33 SalesReport Manager SIR000150 has attempted to view Manager Home page.
+LOGOUT 2023-09-22 01:21:37 ManagerHome Manager SIR000150 has logout and  attempted to view Welcome page.
+LOGIN 2023-09-22 01:21:38 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-22 01:27:48 Admin A user has attempted to view Welcome page.
+LOGIN 2023-09-22 01:28:44 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-22 01:33:03 AdminHome Manager JITEN has attempted to view Manager Account Approval page.
+INFO 2023-09-22 01:33:13 Approval Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-22 01:36:58 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-22 01:39:33 Log Manager JITEN has filtered the feedbacks with the query "JITEN".
+INFO 2023-09-22 01:53:19 Log Manager JITEN has attempted to view Manager Home page.
+INFO 2023-09-22 01:53:21 ManagerHome Manager JITEN has attempted to view Manager Sales Report page.
+INFO 2023-09-22 01:57:25 SalesReport Manager JITEN has attempted to print the daily report of the date 18-09-2023.
+INFO 2023-09-22 01:58:11 SalesReport Manager JITEN has attempted to print the daily report of the date 18-09-2023.
+INFO 2023-09-22 01:58:15 SalesReport Manager JITEN has attempted to view Manager Home page.
+LOGOUT 2023-09-22 02:06:08 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+LOGIN 2023-09-22 02:06:10 Welcome A user attempt to view customer login page.
+INFO 2023-09-22 02:06:12 CustomerLogin A user has attempted to view Welcome page.
+INFO 2023-09-22 02:06:13 Welcome A user has attempted to view Customer Registration page.
+ERROR 2023-09-22 02:07:00 CustomerReg A user entered an existing Customer ID.
+INFO 2023-09-22 02:07:14 CustomerReg A user has cleared the fields in Customer Registration page.
+INFO 2023-09-22 02:19:40 CustomerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-22 02:19:41 Welcome A user has attempted to view ADMIN Login page.
+LOGIN 2023-09-22 02:19:49 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-22 02:19:51 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-22 02:20:05 Log Manager JITEN has attempted to view Manager Home page.
+LOGOUT 2023-09-22 02:22:55 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+LOGIN 2023-09-22 02:22:57 Welcome A user attempt to view customer login page.
+LOGIN 2023-09-22 02:23:11 CustomerLogin User NPI000150 has logged in successfully.
+INFO 2023-09-22 02:25:19 CustomerProfile User NPI000150 has topped up RM250.0 to their account. User NPI000150 current balance is RM680.0
+INFO 2023-09-22 03:05:55 CustomerProfile User NPI000150 has attempted to view Customer Home page.
+LOGOUT 2023-09-22 03:05:56 CustomerHome User NPI000150 has logged out of the system.
+LOGIN 2023-09-22 11:10:46 Welcome A user has attempted to view ADMIN Login page.
+ERROR 2023-09-22 11:10:56 Admin A user has typed in a Manager ID that does not exist.
+LOGIN 2023-09-22 11:11:02 Admin Admin JITEN has logged in successfully.
+INFO 2023-09-22 11:11:06 ManagerHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-22 11:11:57 Log Manager JITEN has filtered the feedbacks with the query "JITEN".
+INFO 2023-09-22 11:12:22 Log Manager JITEN has attempted to view Manager Home page.
+LOGIN 2023-09-22 11:25:46 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-22 11:26:00 AdminHome Manager JITEN has attempted to view Manager Audit Log page.
+INFO 2023-09-22 11:26:14 Log Manager JITEN has attempted to view Manager Home page.
+LOGIN 2023-09-22 14:11:41 Welcome A user has attempted to view ADMIN Login page.
+INFO 2023-09-22 14:11:42 Admin A user has attempted to view Welcome page.
+INFO 2023-09-22 14:11:42 Welcome A user has attempted to view Manager Registration page.
+INFO 2023-09-22 14:11:44 ManagerReg A user has attempted to view Welcome page.
+LOGIN 2023-09-22 14:11:45 Welcome A user has attempted to view Manager Login page.
+LOGIN 2023-09-22 20:44:54 Welcome A user has attempted to view ADMIN Login page.
+ERROR 2023-09-22 20:45:02 Admin A user has typed in a Manager ID that does not exist.
+ERROR 2023-09-22 20:45:09 Admin A user has typed in a Manager ID that does not exist.
+LOGIN 2023-09-22 20:45:14 Admin Admin JITEN has logged in successfully.
+LOGOUT 2023-09-22 20:46:16 ManagerHome Manager JITEN has logout and  attempted to view Welcome page.
+LOGIN 2023-09-22 20:46:17 Welcome A user has attempted to view Manager Login page.
+LOGIN 2023-09-22 20:46:27 ManagerLogin User SIR000150 has logged in successfully.
+LOGOUT 2023-09-22 20:46:57 ManagerHome Manager SIR000150 has logout and  attempted to view Welcome page.
+LOGIN 2023-09-22 20:47:00 Welcome A user has attempted to view Manager Login page.
+LOGIN 2023-09-22 20:47:11 ManagerLogin Admin SATINDRA has logged in successfully.
+LOGOUT 2023-09-22 20:47:31 ManagerHome Manager SATINDRA has logout and  attempted to view Welcome page.
